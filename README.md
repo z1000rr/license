@@ -17,4 +17,6 @@ sudo mv sublime_text /opt/sublime_text/    # Mover el nuevo sublime_text al dire
 Si volvemos a abrir el Sublime Text ya deberíamos tener la licencia.
 Para confirmarlo debemos ir a la parte superior **"Help > About Sublime Text"** y debería aparecer el mensaje "Unlimited Uer Lcence".
 
+
+(Aclarar que debería funcionar en más versiones, pero yo solo lo he probado en la 4143.)
 ### ¡Listo! Espero que les sirva de ayuda
