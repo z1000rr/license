@@ -15,7 +15,7 @@ sudo chgrp root sublime_text    # Cambiar el grupo propietario a "root"
 sudo mv sublime_text /opt/sublime_text/    # Mover el nuevo sublime_text al directorio original
 ```
 Si volvemos a abrir el Sublime Text ya deberíamos tener la licencia.
-Para confirmarlo debemos ir a la parte superior **"Help > About Sublime Text"** y debería aparecer el mensaje "Unlimited Uer Lcence".
+Para confirmarlo debemos ir a la parte superior **"Help > About Sublime Text"** y debería aparecer el mensaje **"Unlimited User Licence"**.
 
 
 (Aclarar que debería funcionar en más versiones, pero yo solo lo he probado en la 4143.)
