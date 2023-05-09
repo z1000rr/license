@@ -8,7 +8,7 @@ Para obtener una licencia ilimitada de Sublime Text en Linux, debemos seguir los
 4. El código se subrayará y debemos reemplazarlo uno por uno por el siguiente: C6 40 05 01 48 85 C9
 5. Hacer clic en el botón "Guardar como" y guardar en la carpeta de descargas.
 6. Abrir la terminal y escribir los siguientes comandos:
-```sh
+```bash
 sudo mv /opt/sublime_text/sublime_text ./sublime_text.old    # Renombrar sublime_text antiguo a sublime_text.old
 cd $HOME/Downloads/    # Entrar en la carpeta Descargas
 sudo chmod 755 sublime_text    # Dar permisos al "nuevo" sublime_text
